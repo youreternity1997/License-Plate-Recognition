@@ -17,7 +17,7 @@
 
 #### Predicted Results :
 <p align='center'>
-<img src="gitfig/Predicted%20results.jpg" height="600px" width='500px'> 
+<img src="gitfig/Predicted%20results.jpg" height="600px" width='550px'> 
 
 #### Captured License Plate Image :
 <p align='center'>
